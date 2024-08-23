@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from South Africa, currently based in Shanghai. </h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **P5js**, **Processing** and **TouchDesigner**
 
 - 👯 I’m looking to collaborate on **freelance projects** and **part-time projects**
 
